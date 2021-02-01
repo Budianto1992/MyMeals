@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMeals</string>
+    <string name="something_wrong">Something Wrong</string>
+    <string name="text_primary">Text Primary</string>
+    <string name="text_subtitle">Text Subtitle</string>
+    <string name="image_description">Image Description</string>
+    <string name="title_detail">Detail</string>
+</resources>
